@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Acme Color Scheme",
+		"All Autocomplete",
+		"Browser Integration",
+		"CTags",
+		"Emmet",
+		"Git",
+		"jQuery Snippets pack",
+		"Package Control",
+		"PHP Codebeautifier",
+		"PhpCodeGen",
+		"Phpcs",
+		"phpfmt",
+		"PhpSpec Snippets",
+		"PHPUnit",
+		"Pretty JSON",
+		"ScrollAlternative",
+		"SFTP",
+		"SideBarEnhancements",
+		"SqlBeautifier",
+		"SublimeCodeIntel",
+		"Sublimerge Pro",
+		"Super-Awesome Paste"
+	]
+}
